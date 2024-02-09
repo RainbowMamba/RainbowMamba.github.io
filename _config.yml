@@ -20,7 +20,7 @@ title                    : "Geek Billionaire"
 title_separator          : "-"
 subtitle                 : "Blog of a geek who's gonna be a billionaire" # site tagline that appears below site title in masthead
 name                     : "RainbowMamba"
-description              : "About tech mainly computer"
+description              : "I'm a student studying computer science and engineering. Currently living in Korea."
 url                      : "https://RainbowMamba.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
