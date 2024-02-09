@@ -25,7 +25,7 @@ url                      : "https://RainbowMamba.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "RainbowMamba/RainbowMamba.github.io"
 teaser                   : "/assets/images/code.jpg"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/Bruce-Wayne.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
