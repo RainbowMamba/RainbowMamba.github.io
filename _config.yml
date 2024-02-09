@@ -25,7 +25,7 @@ url                      : "https://RainbowMamba.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "RainbowMamba/RainbowMamba.github.io"
 teaser                   : # "/assets/images/code.jpg"
-logo                     : "/assets/images/Bruce-Wayne.jpg"
+logo                     : # "/assets/images/Bruce-Wayne.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kwangho5538@gmail.com"
+      # url: "mailto:kwangho5538@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
