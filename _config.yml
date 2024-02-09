@@ -24,7 +24,7 @@ description              : "I'm a student studying computer science and engineer
 url                      : "https://RainbowMamba.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "RainbowMamba/RainbowMamba.github.io"
-teaser                   : "/assets/images/code.jpg"
+teaser                   : # "/assets/images/code.jpg"
 logo                     : "/assets/images/Bruce-Wayne.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
