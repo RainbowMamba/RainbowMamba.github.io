@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Billionaire Geek"
 title_separator          : "-"
-subtitle                 : "Blog of a geek who's gonna be a billionaire: Fake it till you make it" # site tagline that appears below site title in masthead
+subtitle                 : # "Blog of a geek who's gonna be a billionaire: Fake it till you make it" # site tagline that appears below site title in masthead
 name                     : "RainbowMamba"
 description              : "I'm a student studying computer science and engineering. Currently living in Korea."
 url                      : "https://RainbowMamba.github.io"
